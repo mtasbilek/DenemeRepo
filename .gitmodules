@@ -1,0 +1,3 @@
+[submodule "DenemSub"]
+	path = DenemSub
+	url = https://github.com/mtasbilek/DenemSub.git
